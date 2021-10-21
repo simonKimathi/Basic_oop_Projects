@@ -1,0 +1,4 @@
+1 myrect rectangle red 20 30
+2 mygriangle triangle blue 10 30 35
+3 mycircle circle blue 25
+4 rect2 rectangle blue 30 40
